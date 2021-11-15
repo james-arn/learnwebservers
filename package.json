@@ -1,0 +1,23 @@
+{
+  "name": "learning_web_servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-arn/learnwebservers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-arn/learnwebservers/issues"
+  },
+  "homepage": "https://github.com/james-arn/learnwebservers#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
